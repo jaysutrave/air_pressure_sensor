@@ -18,4 +18,5 @@ PyYAML
 numpy
 scikit-learn
 PyYAML
+numpy
 -e .
