@@ -4,7 +4,7 @@ from sensor.utils import get_collection_as_dataframe
 import sys,os
 from sensor.entity import config_entity
 from sensor.components.data_ingestion import DataIngestion
-from sensor.components.data_validation import data_validation
+from sensor.components.data_validation import DataValidation
 from sensor.components.data_transformation import DataTransformation
 from sensor.components.model_trainer import ModelTrainer
 from sensor.components.model_evaluation import ModelEvaluation
