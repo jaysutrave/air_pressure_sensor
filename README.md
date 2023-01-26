@@ -25,4 +25,4 @@ wget https://raw.githubusercontent.com/avnyadav/sensor-fault-detection/main/aps_
 ```
 
 
-##this file is updated in git hub site
+##this file is updated in git hub site ok
